@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
