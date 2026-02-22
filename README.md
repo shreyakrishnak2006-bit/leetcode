@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
