@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
