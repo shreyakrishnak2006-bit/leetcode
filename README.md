@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0048-rotate-image) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
