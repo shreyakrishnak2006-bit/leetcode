@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0868-binary-gap) |
 ## Array
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
