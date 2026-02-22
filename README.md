@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
