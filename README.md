@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
