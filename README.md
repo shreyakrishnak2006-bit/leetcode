@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
