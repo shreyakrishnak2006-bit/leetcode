@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
