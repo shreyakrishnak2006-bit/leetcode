@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
