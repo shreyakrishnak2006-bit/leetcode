@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
