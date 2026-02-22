@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
