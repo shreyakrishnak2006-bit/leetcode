@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0135-candy) |
 ## Sliding Window
 |  |
 | ------- |
