@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0146-lru-cache) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0126-word-ladder-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
