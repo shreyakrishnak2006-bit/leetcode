@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/shreyakrishnak2006-bit/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
